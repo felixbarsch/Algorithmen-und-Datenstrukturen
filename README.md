@@ -1,9 +1,9 @@
 # Modul Algorithmen & Datenstrukturen
 
-1. Grundbegriffe
+## 1. Grundbegriffe
 - Algorithmus von Euklid
 
-2. Rekursion
+## 2. Rekursion
 - Fakultät
 - Fibonacci-Zahlen
 - Fibonacci-Zahlen als iterative Funktion
@@ -13,19 +13,19 @@
 - 8-Damen-Problem
 - (Pascalsches Dreieck)
 
-3. Datenstrukturen
+## 3. Datenstrukturen
 - Baum Inorder-Sortierung
 
-4. Analyse von Algorithmen
+## 4. Analyse von Algorithmen
 
-5. Sortieralgorithmen
+## 5. Sortieralgorithmen
 - Bubble-Sort
 - Quick-Sort
 - Heap-Sort
 - Counting-Sort
 
-6. Hashing
+## 6. Hashing
 
-7. Graphalgorithmen
+## 7. Graphalgorithmen
 - Travelling Salesman
 - Dijkstra Algorithmus
