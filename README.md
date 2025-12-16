@@ -27,5 +27,5 @@
 ## 6. Hashing
 
 ## 7. Graphalgorithmen
-- Travelling Salesman
-- [Dijkstra Algorithmus](Travelling-Salesman.py)
+- [Travelling Salesman](Travelling-Salesman.py)
+- [Dijkstra Algorithmus](Dijkstra.py)
