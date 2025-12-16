@@ -1,32 +1,21 @@
 # Modul Algorithmen & Datenstrukturen
 
-## 1. Grundbegriffe
-- Algorithmus von Euklid
+## Grundbegriffe
+- [Euklid](Euklid.py)
 
-## 2. Rekursion
+## Rekursion
 - Primzahlen
-- Fakultät
-- (Fibonacci-Zahlen)
-- (Fibonacci-Zahlen als iterative Funktion)
-- Türme von Hanoi
-- (Binäre Suche)
-- (Backtracking)
-- 8-Damen-Problem
-- (Pascalsches Dreieck)
+- [Fakultät iterativ](Fakultaet-iterativ.py)
+- [Fakultät rekursiv](Fakultaet-rekursiv.py)
+- Türme von Hanoi iterativ
+- [Türme von Hanoi rekursiv](Tuerme-von-Hanoi-rekursiv.py)
+- [8-Damen-Problem](8-Damen-Problem.py)
 
-## 3. Datenstrukturen
-- (Baum Inorder-Sortierung)
-
-## 4. Analyse von Algorithmen
-
-## 5. Sortieralgorithmen
+## Sortieralgorithmen
 - Bubble-Sort
 - Quick-Sort
-- Heap-Sort
-- (Counting-Sort)
+- [Heap-Sort](Heap-Sort.py)
 
-## 6. Hashing
-
-## 7. Graphalgorithmen
+## Graphalgorithmen
 - [Travelling Salesman](Travelling-Salesman.py)
 - [Dijkstra Algorithmus](Dijkstra.py)
