@@ -1,1 +1,1 @@
-# Modul-Algorithmen-Datenstrukturen
+# Modul Algorithmen & Datenstrukturen
