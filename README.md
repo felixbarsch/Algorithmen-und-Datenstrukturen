@@ -9,6 +9,7 @@
 - (Fibonacci-Zahlen)
 - (Fibonacci-Zahlen als iterative Funktion)
 - Türme von Hanoi
+- (Binäre Suche)
 - (Backtracking)
 - 8-Damen-Problem
 - (Pascalsches Dreieck)
