@@ -4,17 +4,17 @@
 - Algorithmus von Euklid
 
 ## 2. Rekursion
+- Primzahlen
 - Fakultät
-- Fibonacci-Zahlen
-- Fibonacci-Zahlen als iterative Funktion
-- Binäre Suche | Folie 49-51
-- Türme von Hanoi | Folie 52-61
-- Backtracking
+- (Fibonacci-Zahlen)
+- (Fibonacci-Zahlen als iterative Funktion)
+- Türme von Hanoi
+- (Backtracking)
 - 8-Damen-Problem
 - (Pascalsches Dreieck)
 
 ## 3. Datenstrukturen
-- Baum Inorder-Sortierung
+- (Baum Inorder-Sortierung)
 
 ## 4. Analyse von Algorithmen
 
@@ -22,10 +22,10 @@
 - Bubble-Sort
 - Quick-Sort
 - Heap-Sort
-- Counting-Sort
+- (Counting-Sort)
 
 ## 6. Hashing
 
 ## 7. Graphalgorithmen
-- [Travelling Salesman](Travelling-Salesman.py) | 16.12.2025
-- [Dijkstra Algorithmus](Dijkstra.py) | 16.12.2025
+- [Travelling Salesman](Travelling-Salesman.py)
+- [Dijkstra Algorithmus](Dijkstra.py)
