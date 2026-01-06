@@ -1,5 +1,3 @@
-
-
 ScheibenAnzahl = int(input("Geben Sie eine Anzahl von Scheiben an: "))
 StangenStackKupfer = []
 StangenStackSilber = []
@@ -35,7 +33,7 @@ def hanoi_rekursiv(n, von_stange, zu_stange, hilfs_stange):
     hanoi_rekursiv(n - 1, von_stange, hilfs_stange, zu_stange)
     bewegeScheibe(von_stange, zu_stange)
     hanoi_rekursiv(n - 1, hilfs_stange, zu_stange, von_stange)
-    
+
 
 hanoi_rekursiv(ScheibenAnzahl, StangenStackKupfer, StangenStackGold, StangenStackSilber)
 print("Das Programm konnte die Türme von Hanoi in", zaehler,"Zügen lösen.")
