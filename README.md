@@ -1,10 +1,15 @@
 # Modul Algorithmen & Datenstrukturen
 
-## Grundbegriffe
-- [Euklid](Euklid.py)
+## Notation
+- PAP
+- Pseudocode
+- Python
 
-## Rekursion
-- Primzahlen
+## Transferaufgaben
+- [Euklid](Euklid.py)
+- Primzahlen (Fehlt noch)
+
+## Rekursion und Iteration
 - [Fakultät iterativ](Fakultaet-iterativ.py)
 - [Fakultät rekursiv](Fakultaet-rekursiv.py)
 - Türme von Hanoi iterativ
@@ -16,6 +21,14 @@
 - Quick-Sort
 - [Heap-Sort](Heap-Sort.py)
 
-## Graphalgorithmen
+## Wirtschaftswissen
+
+## GIT
+
+## Linux
+
+## Vi
+
+## Graphalgorithmen (Nicht Klausurrelevant)
 - [Travelling Salesman](Travelling-Salesman.py)
 - [Dijkstra Algorithmus](Dijkstra.py)
