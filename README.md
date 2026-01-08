@@ -6,7 +6,7 @@
 - Python
 
 ## Transferaufgaben
-- [Euklid (Python](Euklid.py) [Euklid (Perl)](Euklid.pl)
+- [Euklid (Python)](Euklid.py) [Euklid (Perl)](Euklid.pl)
 - Primzahlen (Fehlt noch)
 
 ## Rekursion und Iteration
@@ -17,8 +17,8 @@
 - [8-Damen-Problem](8-Damen-Problem.py)
 
 ## Sortieralgorithmen
-- [Bubble-Sort](Bubble.py)
-- Quick-Sort
+- [Bubble-Sort](Bubble-Sort.py)
+- [Quick-Sort](Quick-Sort.py)
 - [Heap-Sort](Heap-Sort.py)
 
 ## Wirtschaftswissen
