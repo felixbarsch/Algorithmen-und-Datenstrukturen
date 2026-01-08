@@ -13,7 +13,7 @@
 ## Rekursion und Iteration
 - [Fakultät iterativ](Fakultaet-iterativ.py)
 - [Fakultät rekursiv](Fakultaet-rekursiv.py)
-- Türme von Hanoi iterativ
+- [Türme von Hanoi iterativ](Tuerme-von-Hanoi-iterativ.py)
 - [Türme von Hanoi rekursiv](Tuerme-von-Hanoi-rekursiv.py)
 - [8-Damen-Problem](8-Damen-Problem.py)
 - [8-Damen-Problem PAP](8-Damen-Problem_PAP.md)
