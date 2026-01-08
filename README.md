@@ -1,7 +1,7 @@
 # Modul Algorithmen & Datenstrukturen
 
 ## Notation
-- PAP
+- [PAP / Flussdiagramm](https://de.wikipedia.org/wiki/Programmablaufplan)
 - Pseudocode
 - Python
 
