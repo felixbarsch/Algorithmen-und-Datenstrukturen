@@ -27,8 +27,10 @@
 ## GIT
 
 ## Linux
+- [Tutorial](https://ubuntu.com/tutorials/command-line-for-beginners)
 
 ## Vi
+- [How-To](https://www.dummies.com/article/technology/programming-web-design/web-hosting/how-to-edit-files-with-vi-204443/)
 
 ## Graphalgorithmen (Nicht Klausurrelevant)
 - [Travelling Salesman](Travelling-Salesman.py)
