@@ -2,8 +2,8 @@
 
 ## Notation
 - [PAP / Flussdiagramm](https://de.wikipedia.org/wiki/Programmablaufplan)
-- Pseudocode
-- Python
+- [Pseudocode](https://de.wikipedia.org/wiki/Pseudocode)
+- [Python](https://www.python.org/)
 
 ## Transferaufgaben
 - [Euklid (Python)](Euklid.py)
