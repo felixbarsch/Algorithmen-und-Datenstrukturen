@@ -9,7 +9,7 @@
 - [Euklid (Python)](Euklid.py)
 - [Euklid (Perl)](Euklid.pl)
 - [Primzahlen](Primzahlen.py)
-- [Primzahlen wie C](Primzahlen-wie-C.py)
+- [Primzahlen mit Summe](Primzahlen-mit-Summe.py)
 
 ## Rekursion und Iteration
 - [Fakultät iterativ](Fakultaet-iterativ.py)
