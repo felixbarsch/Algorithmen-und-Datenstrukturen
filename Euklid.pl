@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# Mit gannzahliger Division
+# Mit ganzzahliger Division
 sub ggT {
     my ($a, $b) = @_;
     while ($b) {
