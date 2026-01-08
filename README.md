@@ -25,6 +25,7 @@
 
 ## Wirtschaftswissen
 - [Dreisatz](https://simpleclub.com/lessons/mathematik-dreisatz-mit-prozenten)
+- [Lineare Abschreibung](https://simpleclub.com/lessons/wirtschaft-lineare-abschreibung)
 
 ## GIT
 - [How-To](https://www.mediawiki.org/wiki/Git_for_dummies)
