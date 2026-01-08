@@ -6,7 +6,8 @@
 - Python
 
 ## Transferaufgaben
-- [Euklid (Python)](Euklid.py) [Euklid (Perl)](Euklid.pl)
+- [Euklid (Python)](Euklid.py)
+- [Euklid (Perl)](Euklid.pl)
 - Primzahlen (Fehlt noch)
 
 ## Rekursion und Iteration
