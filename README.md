@@ -26,6 +26,8 @@
 ## Wirtschaftswissen
 
 ## GIT
+- [How-To](https://www.mediawiki.org/wiki/Git_for_dummies)
+- [Getting a Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 
 ## Linux
 - [Tutorial](https://ubuntu.com/tutorials/command-line-for-beginners)
