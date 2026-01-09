@@ -13,6 +13,7 @@ for i in range(start,1,-1):
   for j in range(2,math.isqrt(i)+1):
     if (i%j==0):
       prime = False
+      break
  
   if prime:
     print( ' |', i, end='')
