@@ -21,8 +21,11 @@
 
 ## Sortieralgorithmen
 - [Bubble-Sort](Bubble-Sort.py)
+- [Bubble-Sort PAP](Bubble-Sort_PAP.md)
 - [Quick-Sort](Quick-Sort.py)
+- [Quick-Sort PAP](Quick-Sort_PAP.md)
 - [Heap-Sort](Heap-Sort.py)
+- [Heap-Sort PAP](Heap-Sort_PAP.md)
 
 ## Wirtschaftswissen
 - [Dreisatz](https://simpleclub.com/lessons/mathematik-dreisatz-mit-prozenten)
