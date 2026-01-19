@@ -6,7 +6,7 @@ Der Name kommt daher, dass große Werte wie Luftblasen nach oben „aufsteigen�
 1. Gehe die Liste von links nach rechts durch.
 2. Vergleiche jeweils zwei Nachbarn.
 3. Sind sie falsch sortiert → tausche sie.
-4. Wiederhole das Ganze mehrmals, bis keine Vertauschung mehr nötig ist.
+4. Wiederhole das Ganze mehrmals, bis keine Vertauschung mehr nötig ist. Und dies passiert in zwei Schleifen.
 
 ### PAP des Bubble-Sorts
 ```mermaid

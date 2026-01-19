@@ -9,7 +9,7 @@ Quicksort ist ein sehr schneller Sortieralgorithmus, der nach dem Prinzip „Tei
 3. Das Pivot ist danach an der richtigen Position
 4. Wende dasselbe Verfahren rekursiv auf die linke und rechte Teilliste an
 
-### PAP des Bubble-Sorts
+### PAP des Quick-Sorts
 ```mermaid
 graph TD
     A([Start]) --> B[Array initialisieren]
